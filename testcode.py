@@ -1,2 +1,2 @@
-print("its a new file")
-print ("first line")
+print("first line")
+print ("sec line")
