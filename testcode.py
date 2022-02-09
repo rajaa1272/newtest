@@ -1,3 +1,3 @@
-print("first line")
-print ("sec line")
+print("1st line")
+print ("2nd line")
 
